@@ -4,4 +4,4 @@ cd BIML-MIDCAP
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run app(2).py
